@@ -1,2 +1,2 @@
 # sdnetwork
-How to Microsoft Server 2016
+How to setup network by Software Define Server (SDS)!
