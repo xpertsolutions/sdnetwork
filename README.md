@@ -1,6 +1,6 @@
 **Software Define Server**
 
-How to setup network
+How to setup network without using real hardware?
 
 *Following is my test*
 
